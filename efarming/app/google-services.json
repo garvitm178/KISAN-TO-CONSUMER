@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "814465972777",
+    "firebase_url": "https://e-farming-37cf6.firebaseio.com",
+    "project_id": "e-farming-37cf6",
+    "storage_bucket": "e-farming-37cf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814465972777:android:c41b34ec9a258c30",
+        "android_client_info": {
+          "package_name": "com.example.anmol.efarming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814465972777-4qgc8trrkqvcighq9ji95pa04041169c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anmol.efarming",
+            "certificate_hash": "9f5974c655253b08fec9bdac4bf52fa646acaf5e"
+          }
+        },
+        {
+          "client_id": "814465972777-j82qmrcc5d7quf6gdnet8rdjp6rtuvgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAsORZISRIffSycTcmu16xVOdtiMqcwRY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814465972777-j82qmrcc5d7quf6gdnet8rdjp6rtuvgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
