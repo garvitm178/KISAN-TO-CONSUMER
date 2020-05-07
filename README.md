@@ -1,1 +1,2 @@
 # KISAN TO CONSUMER
+It is an android application, which connects farmers directly to consumers removing the intermediaries to make it profitable for both parties. It also predicts weather forecast for next 15 days and also uses Watson visual recognition to show the nutritional contents and the quality of crop which helps the farmer to plan the sale of crops according to the quality and make prior arrangements in case of oncoming bad weather.
